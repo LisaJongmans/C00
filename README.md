@@ -1,5 +1,7 @@
 C 101 https://overiq.com/c-programming-101/keywords-and-identifiers/#keywords
 
+vim basics https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
+
 Need to know:
 
 gcc   > to compile files
