@@ -1,3 +1,5 @@
+C 101 https://overiq.com/c-programming-101/keywords-and-identifiers/#keywords
+
 Need to know:
 
 gcc   > to compile files
