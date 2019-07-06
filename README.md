@@ -1,5 +1,7 @@
 C 101 https://overiq.com/c-programming-101/keywords-and-identifiers/#keywords
 
+C operators https://www.programiz.com/c-programming/c-operators
+
 vim basics https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
 
 Need to know:
@@ -11,8 +13,6 @@ KEYWORDS:
 AUTO
 
 BREAK
-
-CASE !FORBIDDEN!
 
 CHAR
 
@@ -34,10 +34,6 @@ EXTERN
 
 FLOAT
 
-FOR !FORBIDDEN!
-
-GOTO !FORBIDDEN!
-
 IF
 
 INT
@@ -58,8 +54,6 @@ STATIC
 
 STRUCT
 
-SWITCH !FORBIDDEN!
-
 TYPEDEF
 
 UNION
@@ -71,6 +65,11 @@ VOID
 VALATILE
 
 WHILE
- 
+
+
+CASE !FORBIDDEN!
+FOR !FORBIDDEN!
+GOTO !FORBIDDEN!
+SWITCH !FORBIDDEN!
 DO...WHILE !FORBIDDEN!
 
